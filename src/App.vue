@@ -1,6 +1,6 @@
 <template>
   <div class="app">
-    <h1>Let Practices  Todo App together</h1>
+    <h1>Let Practices  Todo App with Vue typescript</h1>
     <TodoList />
   </div>
 </template>
